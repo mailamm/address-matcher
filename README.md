@@ -142,6 +142,7 @@ The estimated API cost assumes approximately 10% of records fall back to API mat
 | `transactions_2_11211.xlsx` | Messy transaction addresses (input) |
 | `11211 Addresses.xlsx`      | Canonical address reference (truth) |
 | `matched_output.csv`        | Output from full address matching pipeline     |
+|`ground_truth.csv`        |  Created by duplicating `matched_output.csv` to simulate labeled pairs for dashboard evaluation |
 
 ---
 
