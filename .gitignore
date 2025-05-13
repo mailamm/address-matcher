@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Debug and inspection files
+debug_inspect.py
+parsed_debug.csv
+ground_truth.csv
+ground_truth.py
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# PyCharm-specific (optional)
+.idea/
+
+# Temporary/derived outputs (optional)
+matched_output.csv
+unmatched_report.json
