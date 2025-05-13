@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+usaddress
+rapidfuzz
+Metaphone
+sentence-transformers
+scikit-learn
+flask
+streamlit
